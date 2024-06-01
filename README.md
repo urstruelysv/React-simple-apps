@@ -1,3 +1,59 @@
+<<<<<<< HEAD
+# Counter App
+
+A simple React + Vite app that increments and decrements a counter, changing the background color on each action.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+## Overview
+
+This project is a simple web application that increments and decrements a counter. The background color changes to green on increment and red on decrement. The counter value is displayed in the center of the app.
+
+## Demo
+
+You can view a live demo of the app [here](https://your-github-username.github.io/counter-app).
+
+## Installation
+
+To get a local copy up and running, follow these simple steps:
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed. You can download Node.js from [here](https://nodejs.org/).
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/counter-app.git
+```
+
+## Install Dependencies
+
+Navigate to the project directory and install the dependencies:
+
+bash
+
+cd counter-app
+npm install
+
+## Usage
+
+To start the development server and run the app locally:
+
+bash
+Copy code
+npm run dev
+
+Open your browser and navigate to http://localhost:5173 to see the app in action.
+=======
 ## REACT SIMPLE AND EXPERIMENTAL APPS
 
 This is the repo I just used to create and experiment with some apps build out of boredom and to refresh my react skills , intially added with 5 programs will add them eventually
@@ -32,3 +88,4 @@ This is the repo I just used to create and experiment with some apps build out o
 
 11. Weather App / React-Wheather
     Develop a weather app that fetches and displays the current weather for a specified location. The user should be able to enter a city name and see the weather conditions, temperature, and a weather icon.
+>>>>>>> origin/main
