@@ -1,8 +1,32 @@
-# React + Vite
+# Simple Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application that performs basic arithmetic operations like addition, subtraction, multiplication, and division. The user can input two numbers and select an operation to perform.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Input two numbers
+- Select an arithmetic operation (addition, subtraction, multiplication, division)
+- Calculate and display the result
+
+## Technologies Used
+
+- React
+- Vite
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/urstruelysv/React-simple-apps.git
+   ```
+
+   Usage
+
+Open the application in your browser.
+Input two numbers in the provided fields.
+Select the desired arithmetic operation from the dropdown menu.
+Click the "Calculate" button to see the result.
+License
+
+This project is licensed under the MIT License.
