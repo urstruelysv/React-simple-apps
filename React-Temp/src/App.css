@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.container {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.input-group {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+input,
+select {
+  padding: 10px;
+  margin: 0 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.results {
+  margin-top: 20px;
+  font-size: 1.2em;
+}
+
+footer {
+  margin-top: 20px;
+}
+
+footer a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
